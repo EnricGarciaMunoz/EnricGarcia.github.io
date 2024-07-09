@@ -1,1 +1,1 @@
-# portfolio
+This repository is used in order to build a portfolio webpage.
